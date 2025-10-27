@@ -7,7 +7,7 @@ inherit cmake-utils desktop xdg-utils
 MY_P="SuperTuxKart-${PV}-src"
 DESCRIPTION="A kart racing game starring Tux, the linux penguin (TuxKart fork)"
 HOMEPAGE="https://supertuxkart.net/"
-SRC_URI="https://github.com/supertuxkart/stk-code/releases/download/1.4/SuperTuxKart-1.4-src.tar.xz -> SuperTuxKart-1.4-src.tar.xz"
+SRC_URI="https://github.com/supertuxkart/stk-code/tarball/1fb491f507216c5d181ccd85f29ff08eca003827 -> stk-code-1.5-1fb491f.tar.gz"
 
 LICENSE="GPL-2 GPL-3 CC-BY-SA-3.0 CC-BY-SA-4.0 CC0-1.0 public-domain ZLIB"
 SLOT="0"
